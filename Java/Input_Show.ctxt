@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Show\ showEntry()
+comment1.params=
+comment1.target=java.lang.String\ inputId()
+comment2.params=
+comment2.target=int\ inputDuration()
+comment3.params=
+comment3.target=java.lang.String\ inputP_Date()
+comment4.params=
+comment4.target=int\ inputRating()
+comment5.params=
+comment5.target=java.lang.String\ inputD_Aired()
+comment6.params=
+comment6.target=java.lang.String\ inputCabinet()
+numComments=7

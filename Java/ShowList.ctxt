@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Show[]\ readShowList()
+comment1.params=b
+comment1.target=void\ writeToShowList(Show)
+comment2.params=shows
+comment2.target=void\ writeShowsToShowList(Show[])
+comment3.params=
+comment3.target=void\ outputAllShowsToTerminal()
+numComments=4
